@@ -6260,7 +6260,7 @@ sax@^1.2.4:
 
 "scss-to-json@ssh://git@github.com:trickeyd/scss-to-json.git":
   version "2.0.0"
-  resolved "ssh://git@github.com:trickeyd/scss-to-json.git#66fc7b9ea31b5b360cbad0583affb353cebd122d"
+  resolved "ssh://git@github.com:trickeyd/scss-to-json.git#48124d44864d2a1e9a0e1e9faf2796d0c1596584"
   dependencies:
     cssmin "^0.4.3"
     minimist "^1.2.0"
