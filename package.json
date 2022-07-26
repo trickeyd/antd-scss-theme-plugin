@@ -37,7 +37,7 @@
   "dependencies": {
     "less": "^2.3.7",
     "loader-utils": "^1.1.0",
-    "sass-loader": "^13.0.2",
+    "sass-loader": "^10",
     "scss-to-json": "ssh://git@github.com:trickeyd/scss-to-json.git"
   },
   "peerDependencies": {
