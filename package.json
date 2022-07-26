@@ -37,7 +37,7 @@
   "dependencies": {
     "less": "^2.3.7",
     "loader-utils": "^1.1.0",
-    "scss-to-json": "^2.0.0"
+    "scss-to-json": "ssh://git@github.com:trickeyd/scss-to-json.git"
   },
   "peerDependencies": {
     "antd": "^3.2.0",
@@ -63,7 +63,6 @@
     "jest": "^22.2.1",
     "less": "^2.3.7",
     "less-loader": "^4.0.5",
-    "node-sass": "^4.7.2",
     "raw-loader": "^0.5.1",
     "rimraf": "^2.6.2",
     "sass-loader": "^7.3.0",
