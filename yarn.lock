@@ -6321,9 +6321,9 @@ schema-utils@^3.0.0:
     ajv "^6.12.5"
     ajv-keywords "^3.5.2"
 
-"scss-to-json@ssh://git@github.com:trickeyd/scss-to-json.git":
+"scss-to-json@https://github.com/trickeyd/scss-to-json.git":
   version "2.0.0"
-  resolved "ssh://git@github.com:trickeyd/scss-to-json.git#48124d44864d2a1e9a0e1e9faf2796d0c1596584"
+  resolved "https://github.com/trickeyd/scss-to-json.git#48124d44864d2a1e9a0e1e9faf2796d0c1596584"
   dependencies:
     cssmin "^0.4.3"
     minimist "^1.2.0"
